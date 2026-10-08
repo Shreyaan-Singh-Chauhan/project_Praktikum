@@ -1,6 +1,6 @@
 # MicroIntern — starter
 
-Next.js (App Router) + Supabase (Postgres, Auth, Row Level Security).
+Next.js(App Router) + Supabase(Postgres, Auth, Row Level Security).
 
 ## What works now
 - Sign up (choose student or business/individual), email verification, log in/out, password reset
